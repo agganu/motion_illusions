@@ -5,4 +5,4 @@ pillow
 pypng
 scipy
 rarfile==3.1
-tensorflow==1.7.1
+tensorflow==1.15.4
